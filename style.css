@@ -16,6 +16,10 @@ body {
 .menu {
     font-family: Impact, sans-serif;
     font-size: 22px;
+    width: 500px;
+    margin: 16px auto;
+    background-color:beige;
+    border: 8px double black;
 }
 
 li {
